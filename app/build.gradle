@@ -4,11 +4,11 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "org.lineageos.jelly"
+        applicationId "at.xtools.lineageos.jelly"
         minSdkVersion 24
         targetSdkVersion 25
         versionCode 1
-        versionName "1.0"
+        versionName "20171003"
         jackOptions.enabled true
     }
     buildTypes {
