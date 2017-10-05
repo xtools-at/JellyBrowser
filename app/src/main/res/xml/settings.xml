@@ -67,7 +67,7 @@
             android:title="@string/pref_location_title" />
 
         <SwitchPreference
-            android:defaultValue="0"
+            android:defaultValue="1"
             android:key="key_do_not_track"
             android:summary="@string/pref_do_not_track_summary"
             android:title="@string/pref_do_not_track_title" />
